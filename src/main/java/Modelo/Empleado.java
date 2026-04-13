@@ -19,8 +19,4 @@ public class Empleado {
     public String getNombre() {
         return nombre;
     }
-
-
-    
-    
 }
